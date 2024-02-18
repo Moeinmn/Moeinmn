@@ -1,6 +1,7 @@
 # Moein Moein Nia
 
-Hey there! 👋 I'm Moein Moein Nia, a passionate Software Engineer who enjoys coding in Golang, Python, and Node.js. 
+Hey there! 👋 
+I'm a passionate Software Engineer who enjoys coding in Golang, Python, and Node.js. 
 I'm particularly obsessed with Machine Learning and Artificial Intelligence.
 
 Currently Working at : [PlotSet](https://plotset.com/)
